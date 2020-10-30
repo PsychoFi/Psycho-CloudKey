@@ -33,6 +33,9 @@
  PiHole
  openHAB
  
+ ### Successfully Install Utilities ###
+ ClamAV - Moved database to External Storage
+ 
  ### Pending Success ###
  Home Assistant - Installs but has functionality issues.
  Domocitz - Installs and works OTB but doesn't yet play well with other services. 
