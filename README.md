@@ -29,17 +29,27 @@
  
  So an ARMv7 CPU with 2GB of RAM. You might be saying to yourself, "Self. That sounds almost like a Raspberry Pi 3." Well you would be right. Since the UC-CK and    RPi3 both run on a similiar CPU, we can make some small changes to the UC-CK to trick it into allowing us to install software from RPi's APT Repo, as well as standard Debian repos that support ARMHF. Besides the I/O differences, the only thing stopping the UC-CK from running anything we'd want is the old 3.10.x kernel. No headers are available for it so don't expect any Dynamic Kernel Module Support. So no Wireguard and no Docker.
  
+ ### Pre-Installed Services ###
+ openSSH + sftp
+ 
  ### Successfully Installed Services ###
  PiHole
  openHAB
  
  ### Successfully Install Utilities ###
- ClamAV - Moved database to External Storage
+ ClamAV - Moved database to External Storage.
+ UFW (Uncomplicated Firewall) - Firewall management utility
  
  ### Pending Success ###
  Home Assistant - Installs but has functionality issues.
  Domocitz - Installs and works OTB but doesn't yet play well with other services. 
- OpenVPN - Install Pending.
+ OpenVPN - Installs successfully. Needs testing.
+ Deluge Server & Client - ToDo - https://linuxconfig.org/set-up-a-headless-deluge-server-on-linux
+ BIRD Internet Routing Daemon - ToDo
+ Docker CE - Todo - Doubtful
+ Dovecot - Todo 
+ Dropbox - Todo
+ GO Language Support - ToDo
  
  #### WARNING  ####
  I'm not responsible for anything you do with your CloudKey. 
