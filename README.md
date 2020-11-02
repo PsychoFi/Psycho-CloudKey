@@ -51,6 +51,106 @@
  Dropbox - Todo
  GO Language Support - ToDo
  Grafana - ToDo
+ Froxlor - ToDo
+ GNS3 - ToDo 
+ MariaDB - ToDo
+ Yarn - ToDO
+ QEMU - ToDo
+ Vagrant - ToDo
+ TOR - ToDo
+ Toot - a Mastodon CLI client - ToDo
+ Prosody - ToDo
+ PostgreSQL - ToDo
+ openmediavault - ToDo
+ NodeJS - ToDo 
+ Mumble Server - ToDo
+ Fail2Ban - ToDo
+ Minecraft Server - ToDo
+ Citadel  Email Server - ToDo
+ IRC Server - ToDo
+ eBook Server - ToDo
+ ympd - ToDo
+ Airsonic
+ Subsonic
+ Shairport
+ ReadyMedia
+ Ampache
+ Emby Server
+ Murmur
+ Ubooquity
+ Roon Extension Manager
+ Mopidy
+ CAVA
+ NAA daemon
+ MPD
+ O!MPD
+ IceCast
+ Spotify Connect Web
+ Koel
+ Tautulli 
+ myMPD
+ GMediaRender
+ Raspotify
+ Jellyfin
+ Komga
+ Transmission Server
+ qBittorrent
+ Lidarr
+ rTorrent
+ Medusa
+ SABnzbd
+ CouchPotato
+ Sonarr
+ Radarr
+ Jackett
+ NZBget
+ HTPC Manager
+ ownCloud
+ Pydio
+ Gogs
+ Syncthing
+ UrBackup Server
+ Nextcloud
+ Tonido
+ Minio
+ FuguHub
+ Gitea
+ Nextcloud Talk
+ Firefox Sync Server
+ FreshRSS
+ Wordpress
+ Image Gallery
+ YaCy
+ LinuxDash
+ PhpSysInfo
+ Netdata
+ RPi-Monitor
+ Webmin
+ No-IP
+ Remot3.it
+ VirtualHere Server
+ Fail2Ban
+ phpMyAdmin
+ Redis
+ Certbot
+ Tomcat8
+ ProFTPD
+ vsFTPD
+ Samba Server
+ NFS Server
+ TasmoAdmin
+ CloudPrint
+ iftop
+ IPTraf
+ Iperf
+ MTR-Tiny
+ nLoad
+ tcpdump
+ Avahi-Daemon
+ 
+ 
+ 
+ 
  
  #### WARNING  ####
  I'm not responsible for anything you do with your CloudKey. 
